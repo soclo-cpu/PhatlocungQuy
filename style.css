@@ -12,7 +12,13 @@
 }
 #vung3 {
   background-color: red;
-  color: white;
+  color: black;
   height: 20px;
   border: 10px solid pink;
+}
+#vung1 img {
+  width: 48px;
+  height: 48px;
+  display: block;
+  margin: 0 auto;
 }

@@ -53,32 +53,5 @@
 }
 #vung1-menu a {
   text-decoration: none; 
-  color: dark blue;
-}
-#vung2 table {
-  width: 90%; 
-  border-collapse: collapse; 
-  margin: 10px auto; 
-  font-family: Arial, sans-serif;
-}
-#vung2 th {
-  background-color: red; 
-  color: white;
-  padding: 8px;
-  border: 1px solid #ddd;
-  text-align: center;
-}
-#vung2 td {
-  padding: 8px;
-  border: 1px solid #ddd;
-  text-align: center;
-  color: black;
-  background-color: white; 
-}
-#vung2 tbody tr:nth-child(even) td {
-  background-color: gray; 
-}
-#vung2 .diem-header {
-  background-color: darkred;
-  font-weight: bold;
+  color: inherit;
 }

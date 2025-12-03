@@ -53,5 +53,23 @@
 }
 #vung1-menu a {
   text-decoration: none; 
-  color: inherit;
+  color: dark blue;
+}
+#vung2 table {
+  width: 90%; 
+  border-collapse: collapse; 
+  margin: 10px auto; 
+  font-family: Arial, sans-serif;
+}
+#vung2 th {
+  color: black;
+  padding: 8px;
+  border: 1px solid black;
+  text-align: center;
+}
+#vung2 td {
+  padding: 8px;
+  border: 1px solid black;
+  text-align: center;
+  color: black;
 }
